@@ -1,0 +1,21 @@
+# Model weights
+*.pth
+*.pkl
+
+# Dataset
+data/
+dataset/
+datasets/
+
+# Virtual environment
+venv/
+env/
+.env/
+
+# Mac junk
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+test/
